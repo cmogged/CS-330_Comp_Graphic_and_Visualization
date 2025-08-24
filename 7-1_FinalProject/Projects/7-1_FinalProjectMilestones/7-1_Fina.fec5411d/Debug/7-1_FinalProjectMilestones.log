@@ -1,0 +1,8 @@
+﻿  ViewManager.cpp
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(159,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(160,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(167,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(168,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(199,19): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(267,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> \\apporto.com\dfs\SNHU\USERS\crailinmogged_snhu\Desktop\7-1_FinalProjectF\7-1_FinalProject\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
